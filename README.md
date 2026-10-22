@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nang 👋
 
-<!--
-**hathanhnang-ai/hathanhnang-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Operations & Automation** — I turn repetitive IT operations into reliable automation.
+12+ years in IT support, systems and network infrastructure, including 8 years at
+Home Credit Vietnam. My work focuses on endpoint management and IT service
+automation: PowerShell tooling, Intune/Autopilot provisioning and Ansible-driven
+network configuration.
 
-Here are some ideas to get you started:
+### 🔧 What I build
+- **PowerShell automation** for endpoint operations — remote software removal,
+  log collection, device provisioning helpers
+  - **Windows Autopilot + Intune** provisioning workflows (setup time per device:
+    ~2 hours → 30–40 minutes)
+    - **Ansible playbooks** for access-switch configuration with GitLab CI
+      (change requests: ~45 minutes → ~5 minutes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      ### 🧰 Toolbox
+      PowerShell · Ansible · GitLab CI/CD · Git · Microsoft Intune · Windows Autopilot ·
+      Active Directory · Microsoft Entra ID · VMware vSphere · Cisco / HPE / Aruba
+
+      ### 🌱 Currently
+      - Pursuing an applied Master's in IT (Van Hien University)
+      - Learning n8n and Model Context Protocol (MCP)
+      - Google AI Professional Certificate holder
+     
+- ### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/hathanhnang
