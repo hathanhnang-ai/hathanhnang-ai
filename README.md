@@ -9,19 +9,19 @@ network configuration.
 ### 🔧 What I build
 - **PowerShell automation** for endpoint operations — remote software removal,
   log collection, device provisioning helpers
-  - **Windows Autopilot + Intune** provisioning workflows (setup time per device:
-    ~2 hours → 30–40 minutes)
-    - **Ansible playbooks** for access-switch configuration with GitLab CI
-      (change requests: ~45 minutes → ~5 minutes)
+- **Windows Autopilot + Intune** provisioning workflows (setup time per device:
+  ~2 hours → 30–40 minutes)
+- **Ansible playbooks** for access-switch configuration with GitLab CI
+  (change requests: ~45 minutes → ~5 minutes)
 
-      ### 🧰 Toolbox
-      PowerShell · Ansible · GitLab CI/CD · Git · Microsoft Intune · Windows Autopilot ·
-      Active Directory · Microsoft Entra ID · VMware vSphere · Cisco / HPE / Aruba
+### 🧰 Toolbox
+PowerShell · Ansible · GitLab CI/CD · Git · Microsoft Intune · Windows Autopilot ·
+Active Directory · Microsoft Entra ID · VMware vSphere · Cisco / HPE / Aruba
 
-      ### 🌱 Currently
-      - Pursuing an applied Master's in IT (Van Hien University)
-      - Learning n8n and Model Context Protocol (MCP)
-      - Google AI Professional Certificate holder
-     
-- ### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/hathanhnang
+### 🌱 Currently
+- Pursuing an applied Master's in IT (Van Hien University)
+- Learning n8n and Model Context Protocol (MCP)
+- Google AI Professional Certificate holder
+
+### 📫 Connect
+LinkedIn: https://www.linkedin.com/in/hathanhnang
